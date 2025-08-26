@@ -47,7 +47,7 @@ go run ./cmd/portscan -target 127.0.0.1 -start 20 -end 100
 Scan localhost for SSH:
 
 ```bash
-./portscan -target 127.0.0.1 -start 50 -end 200
+./portscan -target 127.0.0.1 -start 20 -end 24
 ```
 
 Scan hostname with 1000 workers:
