@@ -1,4 +1,4 @@
-````markdown
+
 # go-portscanner 🔎
 
 A fast concurrent TCP port scanner written in [Go](https://go.dev/).  
